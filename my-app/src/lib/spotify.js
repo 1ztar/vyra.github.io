@@ -1,5 +1,5 @@
 export const clientId = 'b1b8e704e348442aa6d34c1233806c04';
-export const redirectUri = 'http://https://vyra-github-io-lpgt.vercel.app/callback';
+export const redirectUri = 'https://vyra-github-io-lpgt.vercel.app/callback';
 
 export const scopes = [
 	'streaming',
