@@ -1,0 +1,9 @@
+{
+  "name": "VYRA Music",
+  "short_name": "VYRA",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "A focused Spotify-powered music experience."
+}
